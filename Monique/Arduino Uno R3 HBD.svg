@@ -16,7 +16,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Arduino Uno R3 HBD.svg">
+   sodipodi:docname="Arduino Uno R3 HBD.svg"
+   inkscape:export-filename="/Users/Munnu/Documents/EE Accelerator Class/independent studies oct 16/2016-November/Monique/Arduino Uno R3 HBD.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,12 +29,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2197.7528"
-     inkscape:cy="-2995.5991"
+     inkscape:zoom="0.35"
+     inkscape:cx="-1237.5471"
+     inkscape:cy="-690.27644"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
-     showgrid="false"
+     inkscape:current-layer="g4230"
+     showgrid="true"
      showborder="false"
      inkscape:window-width="1366"
      inkscape:window-height="657"
@@ -1911,5 +1914,22 @@ wG1c4gAAAABJRU5ErkJggg==
        preserveAspectRatio="none"
        height="53"
        width="176" />
-  </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -440,1812.3622 0,-120 1440,0 0,120"
+       id="path5390"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5392"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(20,5.7142857)"><flowRegion
+         id="flowRegion5394"><rect
+           id="rect5396"
+           width="280"
+           height="120.00002"
+           x="-1600"
+           y="1572.3622" /></flowRegion><flowPara
+         id="flowPara5398"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000">USBVCC</flowPara></flowRoot>  </g>
 </svg>
