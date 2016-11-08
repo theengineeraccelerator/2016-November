@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="628.65368"
-     inkscape:cy="430.29437"
+     inkscape:zoom="0.25"
+     inkscape:cx="355.69785"
+     inkscape:cy="-539.41126"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1366"
-     inkscape:window-height="638"
+     inkscape:window-height="650"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,16 +55,95 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;fill:none"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5616"
        width="402.85715"
        height="280"
-       x="-1080"
+       x="-1740"
        y="-27.637794" />
     <image
-       y="603.86218"
+       y="11.862182"
        x="-1018"
        id="image6175"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU eJzt1bENwkAQAMF75EK+GvefuxQC0wOshEAzFWy2a2buAYAP7L2fx8zMfXsKAO+5rmvO85zHt0MA +A+GAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAw FAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQ MBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEA kDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgISh AJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCE oQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWA hKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwF gIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQM BYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAk DAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgA JAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEo ACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBh KAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEg YSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMB IGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlD ASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJ QwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoA CUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJI6ZmbXWtzsA+GF773kBvugLU7D6 OL0AAAAASUVORK5CYII= "
+       style="stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="1805"
+       width="404" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6178"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion6180"><rect
+           id="rect6182"
+           width="404"
+           height="281"
+           x="-1018"
+           y="603.86218" /></flowRegion><flowPara
+         id="flowPara6184">Dual Bridge Motor Driver L298P</flowPara></flowRoot>    <image
+       y="1015.9068"
+       x="-412.71783"
+       id="image6246"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAIAAAA/iUTxAAAAA3NCSVQICAjb4U/gAAADwUlEQVR4 nO3UMQ1DMRTAwLRYHprw3wImpVB16JelOwSevBZAzcy81lr33qdLAL51ztl7v5/OAPiFeQFJ5gUk mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ 5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkX kGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCS eQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYF JJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5Bk XkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkB SeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZ F5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5A knkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnm BSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQ ZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5 AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUk mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ 5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQEA/MXMfAAjXglyzbVGNAAAAABJ RU5ErkJggg== "
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="281"
+       width="404" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6249"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,418)"><flowRegion
+         id="flowRegion6251"><rect
+           id="rect6253"
+           width="404"
+           height="281"
+           x="-412.71783"
+           y="597.9068" /></flowRegion><flowPara
+         id="flowPara6255">XNOR Gate for A side</flowPara></flowRoot>    <image
+       y="-589.16425"
+       x="172.7666"
+       id="image6274"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAIAAAA/iUTxAAAAA3NCSVQICAjb4U/gAAADwUlEQVR4 nO3UMQ1DMRTAwLRYHprw3wImpVB16JelOwSevBZAzcy81lr33qdLAL51ztl7v5/OAPiFeQFJ5gUk mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ 5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkX kGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCS eQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYF JJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5Bk XkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkB SeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZ F5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5A knkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnm BSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQ ZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5 AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUk mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ 5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQEA/MXMfAAjXglyzbVGNAAAAABJ RU5ErkJggg== "
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="281"
+       width="404" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6277"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,-1180)"><flowRegion
+         id="flowRegion6279"><rect
+           id="rect6281"
+           width="404"
+           height="281"
+           x="172.7666"
+           y="590.83575" /></flowRegion><flowPara
+         id="flowPara6283">Reset Switch</flowPara></flowRoot>    <image
+       y="-591.99268"
+       x="711.58197"
+       id="image6302"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAIAAAA/iUTxAAAAA3NCSVQICAjb4U/gAAADwUlEQVR4 nO3UMQ1DMRTAwLRYHprw3wImpVB16JelOwSevBZAzcy81lr33qdLAL51ztl7v5/OAPiFeQFJ5gUk mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ 5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkX kGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCS eQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYF JJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5Bk XkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkB SeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZ F5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5A knkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnm BSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQ ZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5 AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUk mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ 5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQEA/MXMfAAjXglyzbVGNAAAAABJ RU5ErkJggg== "
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="281"
+       width="404" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6305"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,-1180)"><flowRegion
+         id="flowRegion6307"><rect
+           id="rect6309"
+           width="404"
+           height="281"
+           x="711.58197"
+           y="588.00732" /></flowRegion><flowPara
+         id="flowPara6311">Output LEDs</flowPara></flowRoot>    <image
+       y="1238.7251"
+       x="1462.8856"
+       id="image3443"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU
 eJzt1bENwkAQAMF75EK+GvefuxQC0wOshEAzFWy2a2buAYAP7L2fx8zMfXsKAO+5rmvO85zHt0MA
 +A+GAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAw
@@ -87,43 +166,46 @@ QwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoA
 CUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJI6ZmbXWtzsA+GF773kBvugLU7D6
 OL0AAAAASUVORK5CYII=
 "
-       style="image-rendering:optimizeSpeed;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
        height="281"
        width="404" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot6178"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion6180"><rect
-           id="rect6182"
+       id="flowRoot3446"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1288.7048,643.64675)"><flowRegion
+         id="flowRegion3448"><rect
+           id="rect3450"
            width="404"
            height="281"
-           x="-1018"
-           y="603.86218" /></flowRegion><flowPara
-         id="flowPara6184">Dual Bridge Driver L298P</flowPara></flowRoot>    <image
-       y="597.9068"
-       x="-412.71783"
-       id="image6246"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAIAAAA/iUTxAAAAA3NCSVQICAjb4U/gAAADwUlEQVR4
-nO3UMQ1DMRTAwLRYHprw3wImpVB16JelOwSevBZAzcy81lr33qdLAL51ztl7v5/OAPiFeQFJ5gUk
-mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe
-QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ
-5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkX
-kGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCS
-eQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYF
-JJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5Bk
-XkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkB
-SeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZ
-F5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5A
-knkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnm
-BSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQ
-ZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5
-AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUk
-mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe
-QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ
-5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQEA/MXMfAAjXglyzbVGNAAAAABJ
-RU5ErkJggg==
+           x="174.1808"
+           y="595.07837" /></flowRegion><flowPara
+         id="flowPara3454">Header JHigh</flowPara></flowRoot>    <image
+       y="610.64185"
+       x="-100.36334"
+       id="image3475"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU
+eJzt1bENwkAQAMF75EK+GvefuxQC0wOshEAzFWy2a2buAYAP7L2fx8zMfXsKAO+5rmvO85zHt0MA
++A+GAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAw
+FAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQ
+MBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEA
+kDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgISh
+AJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCE
+oQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWA
+hKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwF
+gIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQM
+BYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAk
+DAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgA
+JAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEo
+ACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBh
+KAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEg
+YSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMB
+IGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlD
+ASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJ
+QwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoA
+CUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJI6ZmbXWtzsA+GF773kBvugLU7D6
+OL0AAAAASUVORK5CYII=
 "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
@@ -131,37 +213,40 @@ RU5ErkJggg==
        width="404" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot6249"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion6251"><rect
-           id="rect6253"
+       id="flowRoot3478"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-300,-140)"><flowRegion
+         id="flowRegion3480"><rect
+           id="rect3482"
            width="404"
            height="281"
-           x="-412.71783"
-           y="597.9068" /></flowRegion><flowPara
-         id="flowPara6255">XNOR Gate</flowPara></flowRoot>    <image
-       y="590.83575"
-       x="172.7666"
-       id="image6274"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAIAAAA/iUTxAAAAA3NCSVQICAjb4U/gAAADwUlEQVR4
-nO3UMQ1DMRTAwLRYHprw3wImpVB16JelOwSevBZAzcy81lr33qdLAL51ztl7v5/OAPiFeQFJ5gUk
-mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe
-QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ
-5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkX
-kGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCS
-eQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYF
-JJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5Bk
-XkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkB
-SeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZ
-F5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5A
-knkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnm
-BSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQ
-ZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5
-AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUk
-mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe
-QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ
-5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQEA/MXMfAAjXglyzbVGNAAAAABJ
-RU5ErkJggg==
+           x="199.63666"
+           y="750.64185" /></flowRegion><flowPara
+         id="flowPara3484">Brake A Disable</flowPara></flowRoot>    <image
+       y="1526.8083"
+       x="-465.04373"
+       id="image3527"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU
+eJzt1bENwkAQAMF75EK+GvefuxQC0wOshEAzFWy2a2buAYAP7L2fx8zMfXsKAO+5rmvO85zHt0MA
++A+GAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAw
+FAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQ
+MBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEA
+kDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgISh
+AJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCE
+oQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWA
+hKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwF
+gIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQM
+BYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAk
+DAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgA
+JAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEo
+ACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBh
+KAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEg
+YSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMB
+IGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlD
+ASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJ
+QwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoA
+CUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJI6ZmbXWtzsA+GF773kBvugLU7D6
+OL0AAAAASUVORK5CYII=
 "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
@@ -169,37 +254,40 @@ RU5ErkJggg==
        width="404" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot6277"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion6279"><rect
-           id="rect6281"
+       id="flowRoot3530"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,680)"><flowRegion
+         id="flowRegion3532"><rect
+           id="rect3534"
            width="404"
            height="281"
-           x="172.7666"
-           y="590.83575" /></flowRegion><flowPara
-         id="flowPara6283">Reset Switch</flowPara></flowRoot>    <image
-       y="588.00732"
-       x="711.58197"
-       id="image6302"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAIAAAA/iUTxAAAAA3NCSVQICAjb4U/gAAADwUlEQVR4
-nO3UMQ1DMRTAwLRYHprw3wImpVB16JelOwSevBZAzcy81lr33qdLAL51ztl7v5/OAPiFeQFJ5gUk
-mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe
-QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ
-5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkX
-kGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCS
-eQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYF
-JJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5Bk
-XkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkB
-SeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZ
-F5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5A
-knkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnm
-BSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQ
-ZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5
-AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUk
-mReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGRe
-QJJ5AUnmBSSZF5BkXkCSeQFJ5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQFJ
-5gUkmReQZF5AknkBSeYFJJkXkGReQJJ5AUnmBSSZF5BkXkCSeQEA/MXMfAAjXglyzbVGNAAAAABJ
-RU5ErkJggg==
+           x="-465.04373"
+           y="846.80841" /></flowRegion><flowPara
+         id="flowPara3536">XNOR Gate for B side</flowPara></flowRoot>    <image
+       y="1890.0388"
+       x="-102.18672"
+       id="image3555"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU
+eJzt1bENwkAQAMF75EK+GvefuxQC0wOshEAzFWy2a2buAYAP7L2fx8zMfXsKAO+5rmvO85zHt0MA
++A+GAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAw
+FAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQ
+MBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEA
+kDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgISh
+AJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCE
+oQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWA
+hKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwF
+gIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQM
+BYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAk
+DAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgA
+JAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEo
+ACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBh
+KAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEg
+YSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMB
+IGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlD
+ASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJ
+QwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoA
+CUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJI6ZmbXWtzsA+GF773kBvugLU7D6
+OL0AAAAASUVORK5CYII=
 "
        style="image-rendering:optimizeSpeed"
        preserveAspectRatio="none"
@@ -207,13 +295,137 @@ RU5ErkJggg==
        width="404" />
     <flowRoot
        xml:space="preserve"
-       id="flowRoot6305"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
-         id="flowRegion6307"><rect
-           id="rect6309"
+       id="flowRoot3558"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-280,1080)"><flowRegion
+         id="flowRegion3560"><rect
+           id="rect3562"
            width="404"
            height="281"
-           x="711.58197"
-           y="588.00732" /></flowRegion><flowPara
-         id="flowPara6311">Output LEDs</flowPara></flowRoot>  </g>
+           x="177.81328"
+           y="810.03882" /></flowRegion><flowPara
+         id="flowPara3564">Brake B Disable</flowPara></flowRoot>    <image
+       y="992.43665"
+       x="157.21025"
+       id="image3583"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU
+eJzt1bENwkAQAMF75EK+GvefuxQC0wOshEAzFWy2a2buAYAP7L2fx8zMfXsKAO+5rmvO85zHt0MA
++A+GAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAw
+FAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQ
+MBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEA
+kDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgISh
+AJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCE
+oQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWA
+hKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwF
+gIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQM
+BYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAk
+DAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgA
+JAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEo
+ACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBh
+KAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEg
+YSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMB
+IGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlD
+ASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJ
+QwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoA
+CUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJI6ZmbXWtzsA+GF773kBvugLU7D6
+OL0AAAAASUVORK5CYII=
+"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="281"
+       width="404" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3586"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,640)"><flowRegion
+         id="flowRegion3588"><rect
+           id="rect3590"
+           width="404"
+           height="281"
+           x="157.21025"
+           y="352.43668" /></flowRegion><flowPara
+         id="flowPara3592">Brake A</flowPara></flowRoot>    <image
+       y="1509.8379"
+       x="179.83766"
+       id="image3611"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU
+eJzt1bENwkAQAMF75EK+GvefuxQC0wOshEAzFWy2a2buAYAP7L2fx8zMfXsKAO+5rmvO85zHt0MA
++A+GAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAw
+FAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQ
+MBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEA
+kDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgISh
+AJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCE
+oQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWA
+hKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwF
+gIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQM
+BYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAk
+DAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgA
+JAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEo
+ACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBh
+KAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEg
+YSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMB
+IGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlD
+ASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJ
+QwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoA
+CUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJI6ZmbXWtzsA+GF773kBvugLU7D6
+OL0AAAAASUVORK5CYII=
+"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="281"
+       width="404" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3614"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,680)"><flowRegion
+         id="flowRegion3616"><rect
+           id="rect3618"
+           width="404"
+           height="281"
+           x="179.83766"
+           y="829.83783" /></flowRegion><flowPara
+         id="flowPara3620">Brake B</flowPara></flowRoot>    <image
+       y="1235.4805"
+       x="770.97894"
+       id="image3639"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU
+eJzt1bENwkAQAMF75EK+GvefuxQC0wOshEAzFWy2a2buAYAP7L2fx8zMfXsKAO+5rmvO85zHt0MA
++A+GAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAw
+FAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQ
+MBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEA
+kDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgISh
+AJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCE
+oQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWA
+hKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwF
+gIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQM
+BYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAk
+DAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgA
+JAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEo
+ACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBh
+KAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEg
+YSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMB
+IGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlD
+ASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoACUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJ
+QwEgYSgAJAwFgIShAJAwFAAShgJAwlAASBgKAAlDASBhKAAkDAWAhKEAkDAUABKGAkDCUABIGAoA
+CUMBIGEoACQMBYCEoQCQMBQAEoYCQMJQAEgYCgAJQwEgYSgAJI6ZmbXWtzsA+GF773kBvugLU7D6
+OL0AAAAASUVORK5CYII=
+"
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="281"
+       width="404" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3642"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,680)"><flowRegion
+         id="flowRegion3644"><rect
+           id="rect3646"
+           width="404"
+           height="281"
+           x="770.97894"
+           y="555.48041" /></flowRegion><flowPara
+         id="flowPara3648">Series Resistor</flowPara></flowRoot>  </g>
 </svg>
