@@ -26,18 +26,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="355.69785"
-     inkscape:cy="-539.41126"
+     inkscape:zoom="1"
+     inkscape:cx="-245.52127"
+     inkscape:cy="-608.68072"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      showborder="false"
      inkscape:window-width="1366"
-     inkscape:window-height="650"
+     inkscape:window-height="653"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3650" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5613">
     <rdf:RDF>
@@ -265,7 +269,7 @@ OL0AAAAASUVORK5CYII=
            y="846.80841" /></flowRegion><flowPara
          id="flowPara3536">XNOR Gate for B side</flowPara></flowRoot>    <image
        y="1890.0388"
-       x="-102.18672"
+       x="-100.18672"
        id="image3555"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU
 eJzt1bENwkAQAMF75EK+GvefuxQC0wOshEAzFWy2a2buAYAP7L2fx8zMfXsKAO+5rmvO85zHt0MA
@@ -297,7 +301,7 @@ OL0AAAAASUVORK5CYII=
        xml:space="preserve"
        id="flowRoot3558"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-280,1080)"><flowRegion
+       transform="translate(-278,1080)"><flowRegion
          id="flowRegion3560"><rect
            id="rect3562"
            width="404"
@@ -305,7 +309,7 @@ OL0AAAAASUVORK5CYII=
            x="177.81328"
            y="810.03882" /></flowRegion><flowPara
          id="flowPara3564">Brake B Disable</flowPara></flowRoot>    <image
-       y="992.43665"
+       y="1012.4366"
        x="157.21025"
        id="image3583"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU
@@ -338,7 +342,7 @@ OL0AAAAASUVORK5CYII=
        xml:space="preserve"
        id="flowRoot3586"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,640)"><flowRegion
+       transform="translate(0,660)"><flowRegion
          id="flowRegion3588"><rect
            id="rect3590"
            width="404"
@@ -346,7 +350,7 @@ OL0AAAAASUVORK5CYII=
            x="157.21025"
            y="352.43668" /></flowRegion><flowPara
          id="flowPara3592">Brake A</flowPara></flowRoot>    <image
-       y="1509.8379"
+       y="1529.8379"
        x="179.83766"
        id="image3611"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZQAAAEZCAYAAACw69OmAAAABHNCSVQICAgIfAhkiAAABDlJREFU
@@ -379,7 +383,7 @@ OL0AAAAASUVORK5CYII=
        xml:space="preserve"
        id="flowRoot3614"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,680)"><flowRegion
+       transform="translate(0,700)"><flowRegion
          id="flowRegion3616"><rect
            id="rect3618"
            width="404"
@@ -427,5 +431,50 @@ OL0AAAAASUVORK5CYII=
            height="281"
            x="770.97894"
            y="555.48041" /></flowRegion><flowPara
-         id="flowPara3648">Series Resistor</flowPara></flowRoot>  </g>
+         id="flowPara3648">Series Resistor</flowPara></flowRoot>    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -620,1172.3622 200,0"
+       id="path3652"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -20,1172.3622 180,0"
+       id="path3654"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -620,1652.3622 160,0"
+       id="path3656"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -60,1652.3622 240,0"
+       id="path3658"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 60,1652.3622 0,240"
+       id="path3660"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 80,1172.3622 0,-280"
+       id="path3662"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 560,1152.3622 120,0 0,500 -100,0"
+       id="path3664"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0000ff;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 680,1392.3622 100,0"
+       id="path3666"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1180,1392.3622 280,0"
+       id="path3668"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
